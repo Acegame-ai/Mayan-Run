@@ -1,6 +1,6 @@
-# Maya Run
+# Mayan Run
 
-Maya Run is an endless runner game developed by AbdulWahab Lawal using Unity. The game offers a thrilling and immersive experience as players navigate through various obstacles and challenges.
+Mayan Run is an endless runner game developed by AbdulWahab Lawal using Unity. The game offers a thrilling and immersive experience as players navigate through various obstacles and challenges.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Maya Run is an endless runner game developed by AbdulWahab Lawal using Unity. Th
 
 ## Introduction
 
-Maya Run is designed to be a fast-paced and exciting endless runner game where players control a character named Maya. The goal is to run as far as possible while avoiding obstacles and collecting coins to manage your speed and achieve high scores.
+Mayan Run is designed to be a fast-paced and exciting endless runner game where players control a character named Maya. The goal is to run as far as possible while avoiding obstacles and collecting coins to manage your speed and achieve high scores.
 
 ## Features
 
@@ -30,7 +30,7 @@ Players control Maya as she runs through a dynamically generated environment. Th
 
 ## Installation
 
-To play Maya Run, follow these steps:
+To play Mayan Run, follow these steps:
 
 1. Download the setup file from the [releases](https://github.com/yourusername/maya-run/releases) section.
 2. Run the setup file and follow the on-screen instructions to install the game.
@@ -47,7 +47,7 @@ Avoid obstacles and collect coins to manage your speed and boost your score. Try
 
 ## Contributing
 
-We welcome contributions to enhance Maya Run. To contribute:
+We welcome contributions to enhance Mayan Run. To contribute:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
@@ -58,7 +58,7 @@ We welcome contributions to enhance Maya Run. To contribute:
 
 ## License
 
-Maya Run is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+Mayan Run is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Acknowledgements
 
